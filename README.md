@@ -1,3 +1,6 @@
 # before__lost
 
-Hello, world
+
+Add Whale.png into faces
+Add ZGSALUo.png into tileset
+Rename one img/battleback1 to SF_Dirt
