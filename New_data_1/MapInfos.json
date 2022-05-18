@@ -1,0 +1,14 @@
+[
+null,
+{"id":1,"expanded":false,"name":"outside_house","order":1,"parentId":0,"scrollX":1001.4545454545455,"scrollY":681.8181818181819},
+{"id":2,"expanded":true,"name":"lava_transition","order":2,"parentId":0,"scrollX":1092,"scrollY":614.6666666666666},
+{"id":3,"expanded":true,"name":"house_pre_travel","order":7,"parentId":0,"scrollX":1001.4545454545455,"scrollY":681.8181818181819},
+{"id":4,"expanded":true,"name":"area_1","order":3,"parentId":0,"scrollX":1235.2,"scrollY":473.2},
+{"id":5,"expanded":false,"name":"cave_friendly","order":4,"parentId":4,"scrollX":1001.4545454545455,"scrollY":681.8181818181819},
+{"id":6,"expanded":false,"name":"cave_enemy_2","order":6,"parentId":4,"scrollX":1001.4545454545455,"scrollY":681.8181818181819},
+{"id":7,"expanded":false,"name":"cave_enemy_1","order":5,"parentId":4,"scrollX":1001.4545454545455,"scrollY":681.8181818181819},
+{"id":8,"expanded":false,"name":"house_post_travel","order":8,"parentId":3,"scrollX":1001.4545454545455,"scrollY":681.8181818181819},
+{"id":9,"expanded":true,"name":"out side factory","order":9,"parentId":0,"scrollX":1082.1818181818182,"scrollY":950.1818181818182},
+{"id":10,"expanded":true,"name":"inside factory","order":10,"parentId":9,"scrollX":1012,"scrollY":950.6666666666666},
+{"id":11,"expanded":false,"name":"canyon","order":11,"parentId":0,"scrollX":984,"scrollY":681.8181818181819}
+]
